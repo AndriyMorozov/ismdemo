@@ -8,5 +8,9 @@ namespace LibDemo
         {
 
         }
+        public int GetValue()
+        {
+            return 0;
+        }
     }
 }
