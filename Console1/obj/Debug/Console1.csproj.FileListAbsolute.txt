@@ -1,0 +1,6 @@
+C:\Users\Morozov\source\repos\ISMDemo\Console1\bin\Debug\Console1.exe.config
+C:\Users\Morozov\source\repos\ISMDemo\Console1\bin\Debug\Console1.exe
+C:\Users\Morozov\source\repos\ISMDemo\Console1\bin\Debug\Console1.pdb
+C:\Users\Morozov\source\repos\ISMDemo\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\Morozov\source\repos\ISMDemo\Console1\obj\Debug\Console1.exe
+C:\Users\Morozov\source\repos\ISMDemo\Console1\obj\Debug\Console1.pdb
